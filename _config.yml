@@ -1,6 +1,6 @@
 name: delarosa
 favicon: null
-layout_spectrum: 0.17681038100272417
+layout_spectrum: 0.37465
 typography_spectrum: 0.7928178803995252
 title: 'delarosa advertising & design'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#030303'
+    - '#6e6d6b'
+    - '#facb03'
+    - '#5f3400'
+    - '#d8a025'
   brandStrength: 0.17902107443660498
   lightness: 0.38250660127960145
   saturation: 0.32743295514956117
