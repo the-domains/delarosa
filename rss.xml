@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[delarosa]]></title>
-        <description><![CDATA[delarosa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[delarosa advertising & design]]></title>
+        <description><![CDATA[delarosa advertising & design]]></description>
+        <link>https://thegrid.ai/delarosa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 14:48:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 14:54:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/delarosa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is our design]]></title>
+            <description><![CDATA[<article><h1>This is our design</h1><p>Trying to still be innovative</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5f5e76f8afc8c21201d3021a99932fb79703d76.jpg"></article>]]></description>
+            <link>https://thegrid.ai/delarosa/this-is-our-design/index.html</link>
+            <guid isPermaLink="false">a18cadd9-7286-4fec-ab65-3b00724da57f</guid>
+            <pubDate>Sun, 24 Jan 2016 14:54:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Delarosa]]></title>
             <description><![CDATA[<article><h1>Delarosa</h1><p>delarosa - agence de publicité Luxembourg, agence en communication et marketing: Agence Full Service, objets publicitaires et textiles, édition de livres.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7b0d73d42b82aa3fb39fb659e52c60d5629b1cd.jpg"></article>]]></description>
-            <link>undefineddelarosa/index.html</link>
+            <link>https://thegrid.ai/delarosa/delarosa/index.html</link>
             <guid isPermaLink="false">63a123be-4e2a-4807-8427-502db443a601</guid>
             <pubDate>Sun, 24 Jan 2016 14:48:06 GMT</pubDate>
         </item>
