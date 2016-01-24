@@ -1,0 +1,28 @@
+name: delarosa
+favicon: null
+layout_spectrum: 0.17681038100272417
+typography_spectrum: 0.7928178803995252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.17902107443660498
+  lightness: 0.38250660127960145
+  saturation: 0.32743295514956117
+  rhythmicContrast: 0.10887158173136413
+purpose: []
